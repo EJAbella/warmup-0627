@@ -1,0 +1,37 @@
+body {
+}
+
+.banner {
+  background-image: url(test.jpg);
+  min-height: 30vh;
+  text-align: center;
+  padding: 10vh 10px;
+}
+
+.info {
+  text-align: center;
+  font-size: 24px;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 100%;
+  margin: 0px;
+}
+
+.fas, .fab {
+  font-size: 40px;
+  padding-top: 10px;;
+}
+
+img {
+  width: 100%;
+}
+
+.content {
+  border-bottom: 1px solid black;
+}
+
+footer {
+  background-color: beige;
+  font-size: 24px;
+  border-bottom: 2px solid black;
+}
